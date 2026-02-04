@@ -1,4 +1,4 @@
 # its_demo
 This is my first Git Repository.
 <br>
-Author - Sahil Raut
+Author - Sahil Kisan Raut
